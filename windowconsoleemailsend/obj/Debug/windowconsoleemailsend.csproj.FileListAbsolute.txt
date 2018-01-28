@@ -1,0 +1,7 @@
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\bin\Debug\windowconsoleemailsend.exe.config
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\obj\Debug\windowconsoleemailsend.csprojResolveAssemblyReference.cache
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\bin\Debug\windowconsoleemailsend.exe
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\bin\Debug\windowconsoleemailsend.pdb
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\obj\Debug\windowconsoleemailsend.exe
+c:\users\jessie\documents\visual studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\obj\Debug\windowconsoleemailsend.pdb
+c:\Users\jessie\Documents\Visual Studio 2015\Projects\windowconsoleemailsend\windowconsoleemailsend\bin\Debug\EASendMail20.dll
